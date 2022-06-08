@@ -12,7 +12,7 @@
 # We are using the digit 1 in: 1, 16, 81, 100. The total count is then 4.
 
 
-def nb_dig(n, d):
+def num_dig(n, d):
     
     tot_occur = 0
     
