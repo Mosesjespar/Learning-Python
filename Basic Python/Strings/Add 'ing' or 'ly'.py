@@ -2,7 +2,7 @@
 # If the given string already ends with 'ing' then add 'ly' instead. If the string length of the given string is less than 3, leave it unchanged.
 
 
-def add_string(str1):
+def add_ly_or_ing(str1):
   length = len(str1)
 
   if length > 2:
